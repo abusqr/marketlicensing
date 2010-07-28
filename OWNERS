@@ -1,0 +1,9 @@
+# Created 2010-02-11 James Yum (jyum@google.com)
+#
+# Android Market licensing server client library.
+set noparent
+file://depot/google3/java/OWNERS
+
+devesh
+jyum
+trevorjohns
